@@ -1,2 +1,2 @@
 
-web: gunicorn clc.wsgi --log-file -
+web: gunicorn hospital.wsgi --log-file -
